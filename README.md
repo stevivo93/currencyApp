@@ -1,6 +1,6 @@
-# CHATAPP
+# CURRENCYAPP
 
-A simple chat web app, that allow you to chat with other user. The user which has been determined by 3 user, and with no need to login with password, so these three user is open to anyone.
+A simple app that calculates a converted foreign exchange currency using the Foreign Rates API https://exchangeratesapi.io/
 
 ## Getting Started
 
@@ -30,4 +30,4 @@ npm start
 ## Built With
 
 * [Reactjs](https://reactjs.org/) - The web framework used
-* [Firebase](firebase.google.com/cloud/messaging‎) - Cloud Messaging
+* [API](https://exchangeratesapi.io/) - foreign exchange currency API
